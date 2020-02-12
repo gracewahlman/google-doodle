@@ -10,5 +10,9 @@
 }
 
 body {
-  background: url(img/lift.jpeg)
+  background: url(../img/lift.jpeg)
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
