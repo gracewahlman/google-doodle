@@ -11,7 +11,7 @@ This Google Doodle captures the iconic scene from one of the best films of the 2
 
 ##Resources
 Link to resources used (COPY don't STEAL)
-*SVG from Iconmonstr (https://iconmonstr.com/party-20-svg/)
+*SVG from Iconmonstr (https://iconmonstr.com/party-20-svg/), (https://iconmonstr.com/party-16-svg/)
 *fonts
 *backgrounds
-*photos
+*photos (https://images.app.goo.gl/KRchJ5MhY2KgAaaG8), (https://images.app.goo.gl/JzYTPWYLTnkBU6Me6), (https://images.app.goo.gl/x72DSyci6JdXEYNR6)
