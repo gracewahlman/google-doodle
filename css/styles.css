@@ -9,10 +9,8 @@
     outline: 1px dotted black;
 }
 
-body {
-  background: url(../img/lift.jpeg)
-}
-
-h1 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
+/* Doodle Stage */
+#stage {
+  background: #ccc;
+  height: 300px;
+  width: 600px;
