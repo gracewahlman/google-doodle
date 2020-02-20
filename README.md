@@ -9,7 +9,6 @@ This Google Doodle captures the iconic scene from one of the best films of the 2
 ## Collage
 https://www.figma.com/file/EXIExbU0KRegok9ezORtQF/Google-Doodle?node-id=0%3A1
 
-##Resources
 
 ## Icons:
 https://iconmonstr.com/party-20-svg/
