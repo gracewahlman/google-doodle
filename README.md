@@ -15,7 +15,7 @@ https://iconmonstr.com/party-20-svg/
 https://iconmonstr.com/party-16-svg/
 
 ## Fonts:
-<link href="https://fonts.googleapis.com/css?family=Asap+Condensed|Yellowtail&display=swap" rel="stylesheet">
+https://fonts.google.com/selection?category=Sans+Serif,Display,Handwriting&selection.family=Asap+Condensed|Yellowtail
 
 ## Photos:
 https://images.app.goo.gl/KRchJ5MhY2KgAaaG8
