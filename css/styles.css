@@ -6,11 +6,11 @@
 */
 
 * {
-    outline: 1px dotted black;
+    outline: 4px dotted black;
 }
 
 body {
-  background: url(img/lift.jpeg)
+  background: url(lift.jpeg)
 }
 
 h1 {
