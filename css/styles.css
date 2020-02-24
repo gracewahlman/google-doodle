@@ -1,31 +1,44 @@
-/* My Awesome Styles */
+/* External styling from: https://codepen.io/manikoth/pen/NNNBYe.css
+ */
+/* Doodle Stage UPDATE SIZE AS NEEDED*/
 
-/* Diagnostic Styling 
-  * Change Background Color
-  * Outline Elements
-*/
 
-* {
-    outline: 1px dotted black;
-}
-
-/* Doodle Stage */
-#stage {
-  background: #ccc;
-  height: 300px;
-  width: 600px;
-body {
-  background: url(../img/lift.jpeg)
+#search {
+  width: 300;
+  height: 240;
 }
 
 h1 {
-  font-family: 'Georgia', serif;
+  font-family: 'Yellowtail' ;
+  color: #6a0dad;
+  outline-color: white;
+  
 }
 
-#heart1 {
-  fill: red;
+
+
+#stage {
+  background: white;
+  height: 500px;
+  width: 900px;
+  
+  overflow: hidden;
 }
 
-#heart2 {
-  fill: green;
+#stage h1 {
+  position: absolute;
+  bottom: 1;
+  right: 10;
 }
+
+
+
+#stage svg {
+  position: absolute;
+}
+
+img {
+  position: center;
+}
+
+
