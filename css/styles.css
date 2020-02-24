@@ -21,12 +21,12 @@
   position: absolute;
   margin: 0px;
   font-family: 'Mr Dafoe', cursive;
-  font-size: 5em;
+  font-size: 2em;
   color: #6a0dad;
   margin-left: 60px;
-  margin-top: -500px;
-  font: 1px #bf00ff;
-  outline-color: (2px 2px 20px #FFFFFF);
+  margin-top: -600px;
+  -webkit-text-stroke: 1px #bf00ff;
+  outline: (2px 2px 20px #FFFFFF);
   z-index: 20;
 }
 
