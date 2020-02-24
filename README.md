@@ -22,3 +22,7 @@ https://images.app.goo.gl/KRchJ5MhY2KgAaaG8
 https://images.app.goo.gl/JzYTPWYLTnkBU6Me6
 https://images.app.goo.gl/x72DSyci6JdXEYNR6
 https://images.app.goo.gl/XmDMBDCPhVfU5SPX8
+
+## Resources:
+
+https://codepen.io/boldfacedesign/pen/EoGgD
