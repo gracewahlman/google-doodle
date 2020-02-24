@@ -9,10 +9,32 @@
     outline: 4px dotted black;
 }
 
+/* Doodle Stage */
+#stage {
+  background: #ccc;
+  height: 300px;
+  width: 600px;
 body {
+<<<<<<< HEAD
   background: url(lift.jpeg)
 }
 
 h1 {
   font-family: 'Yellowtail'
 }
+=======
+  background: url(../img/lift.jpeg)
+}
+
+h1 {
+  font-family: 'Georgia', serif;
+}
+
+#heart1 {
+  fill: red;
+}
+
+#heart2 {
+  fill: green;
+}
+>>>>>>> f1b179581713473ec7b97b67015ae94938ff8eac
