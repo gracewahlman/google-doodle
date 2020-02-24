@@ -26,7 +26,7 @@
   margin-left: 60px;
   margin-top: -500px;
   font: 1px #bf00ff;
-  font-display: (2px 2px 20px #FFFFFF);
+  outline-color: (2px 2px 20px #FFFFFF);
   z-index: 20;
 }
 
