@@ -20,12 +20,12 @@
 #h1   {
   position: absolute;
   margin: 0px;
-  font-family: 'Mr Dafoe', cursive;
+  font-family: 'Yellowtail', cursive;
   font-size: 2em;
   color: #6a0dad;
   margin-left: 60px;
   margin-top: -600px;
-  -webkit-text-stroke: 1px #bf00ff;
+  -webkit-text-stroke: 1px #FF69B4;
   outline: (2px 2px 20px #FFFFFF);
   z-index: 20;
 }
